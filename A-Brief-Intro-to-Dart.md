@@ -28,8 +28,8 @@ class CompanyContext extends StateObject {
 }
 ```
 
->**THE COMMAND LINE**
-Many instructions in this book will involve running commands in your machines terminal. I’m a big fan of GUI’s, and don’t use the command line much. You don’t need to be a command line wizard to use this book. Just know that anytime you see a line of code that starts with a `$`, it’s a command for your terminal. The following `⇒` shows the return value (if any). For example, the command `which dart` in the OSX terminal returns the file path to your Dart SDK.
+> **THE COMMAND LINE**
+> Many instructions in this book will involve running commands in your machines terminal. I’m a big fan of GUI’s, and don’t use the command line much. You don’t need to be a command line wizard to use this book. Just know that anytime you see a line of code that starts with a `$`, it’s a command for your terminal. The following `⇒` shows the return value (if any). For example, the command `which dart` in the OSX terminal returns the file path to your Dart SDK.
 ```batch
 $ which dart
 => /usr/local/bin/dart
